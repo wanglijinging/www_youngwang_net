@@ -1,0 +1,195 @@
+[ 2016-01-29T23:39:28+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000513s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003048s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003187s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000449s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000515s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-29T23:39:34+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-29T23:39:40+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001077s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-29T23:39:44+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002015s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-29T23:39:46+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000285s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-29T23:39:49+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000497s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000587s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-29T23:54:43+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001431s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001086s ]
+ERR: Think\Controller:_get方法不存在！
+
+[ 2016-01-29T23:55:51+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001801s ]
+
+[ 2016-01-29T23:58:06+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000836s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+
+[ 2016-01-29T23:59:11+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+
+[ 2016-01-29T23:59:31+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001997s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [2] imagepng(./Uploads/qrcode/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/ThinkPHP/Library/Vendor/phpqrcode/phpqrcode.php 第 954 行.
+NOTIC: [2] file_get_contents(./Uploads/qrcode/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 39 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecopyresampled() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 46 行.
+NOTIC: [2] imagepng() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 49 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006748s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-29T23:59:35+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [2] imagepng(./Uploads/qrcode/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/ThinkPHP/Library/Vendor/phpqrcode/phpqrcode.php 第 954 行.
+NOTIC: [2] file_get_contents(./Uploads/qrcode/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 39 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecopyresampled() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 46 行.
+NOTIC: [2] imagepng() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 49 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000582s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000694s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-29T23:59:52+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [2] imagepng(./Uploads/qrcode/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/ThinkPHP/Library/Vendor/phpqrcode/phpqrcode.php 第 954 行.
+NOTIC: [2] file_get_contents(./Uploads/qrcode/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 39 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecopyresampled() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 46 行.
+NOTIC: [2] imagepng() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 49 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006413s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-29T23:59:59+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [2] imagepng(./Uploads/qrcode/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/ThinkPHP/Library/Vendor/phpqrcode/phpqrcode.php 第 954 行.
+NOTIC: [2] file_get_contents(./Uploads/qrcode/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 38 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 39 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecopyresampled() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 46 行.
+NOTIC: [2] imagepng() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 49 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000660s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000731s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+

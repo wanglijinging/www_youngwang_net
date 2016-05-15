@@ -1,0 +1,691 @@
+[ 2016-01-31T22:03:48+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000937s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001010s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:03:50+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000191s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001011s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001155s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:04:09+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000635s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:04:31+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000661s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:05:11+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000670s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:05:16+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000358s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000451s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:05:31+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000942s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000524s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000589s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:05:50+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000425s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000484s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:27:32+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001125s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:28:52+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000583s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:38:45+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000320s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000934s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001130s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:38:51+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:39:16+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000539s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:39:20+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000290s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000536s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000600s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:39:24+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000195s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000268s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000624s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:39:34+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000327s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 25 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 30 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 34 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000599s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:47:45+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000280s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000588s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:47:47+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001021s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: size /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: level /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined index: logo /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(): Filename cannot be empty /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 48 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 2 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000593s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:47:50+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: size /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: level /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined index: logo /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(): Filename cannot be empty /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 48 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 2 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000334s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:47:51+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined index: size /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 33 行.
+NOTIC: [8] Undefined index: level /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 34 行.
+NOTIC: [8] Undefined index: logo /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(): Filename cannot be empty /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 48 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 2 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000317s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000364s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:48:02+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000754s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000441s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:49:33+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000402s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000457s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:53:26+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000319s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000616s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:56:20+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000598s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T22:56:37+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000663s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:18:37+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(__PUBLIC__imges/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 45 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 46 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 50 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+NOTIC: [2] imagepng() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000464s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000503s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:19:17+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000288s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(__PUBLIC__/imges/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 45 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 46 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 50 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+NOTIC: [2] imagepng() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000584s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:19:21+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(__PUBLIC__/imges/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 45 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 46 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 50 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+NOTIC: [2] imagepng() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001031s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001129s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:19:25+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000282s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(__PUBLIC__/imges/qrcode.png): failed to open stream: No such file or directory /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 43 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 45 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 46 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 50 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+NOTIC: [2] imagepng() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 56 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:20:12+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __PUBLIC__ - assumed '__PUBLIC__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+
+[ 2016-01-31T23:21:11+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000489s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001255s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:26:30+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net?uid=1&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] file_get_contents(http://www.xcsoft.cn/Public//images/success.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 48 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 2 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000552s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000615s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:26:34+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net?uid=1&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] file_get_contents(http://www.xcsoft.cn/Public//images/success.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 48 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 2 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000792s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000925s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:26:35+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net?uid=1&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000207s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000432s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] file_get_contents(http://www.xcsoft.cn/Public//images/success.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 48 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 2 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000308s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000343s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:26:49+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net/uid=1&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000185s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] file_get_contents(http://www.xcsoft.cn/Public//images/success.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 48 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 2 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000315s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000353s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:27:51+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000301s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] file_get_contents(http://www.xcsoft.cn/Public//images/success.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 48 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 2 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000328s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000366s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:27:55+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000286s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] file_get_contents(http://www.xcsoft.cn/Public//images/success.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 48 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 2 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000579s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000628s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
+[ 2016-01-31T23:28:01+08:00 ] 127.0.0.1 /index.php/Home/Index/qrcode1?text=http://wxshop.youngwang.net&size=4&level=L&padding=2&logo=http://www.xcsoft.cn/Public//images/success.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: url /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 32 行.
+NOTIC: [8] Undefined variable: GET /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant __IMAGE__ - assumed '__IMAGE__' /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 37 行.
+NOTIC: [8] Undefined variable: text /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 41 行.
+NOTIC: [2] file_get_contents(): php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] file_get_contents(http://www.xcsoft.cn/Public//images/success.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: nodename nor servname provided, or not known /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagecreatefromstring(): Empty string or invalid image /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 44 行.
+NOTIC: [2] imagesx() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 47 行.
+NOTIC: [2] imagesy() expects parameter 1 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 48 行.
+NOTIC: [2] Division by zero /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 51 行.
+NOTIC: [2] imagecopyresampled() expects parameter 2 to be resource, boolean given /Applications/XAMPP/xamppfiles/htdocs/yii/Application/Home/Controller/IndexController.class.php 第 53 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000314s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000350s ]
+NOTIC: [8] Constant RUNTIME_PATH already defined /Applications/XAMPP/xamppfiles/htdocs/yii/index.php 第 30 行.
+
