@@ -2,12 +2,27 @@
 // 本类由系统自动生成，仅供测试用途
 namespace Home\Controller;
 use Think\Controller;
+use Think\Cache;
+use Think\Cache\Driver\Redis;
+
+
 class IndexController extends Controller {
     public function index(){
-    	$list = D('Index')->select();
-    	//dump($list);
-    	$this->display();
-
-		//$this->show('<style type="text/css">*{ padding: 0; margin: 0; } div{ padding: 4px 48px;} body{ background: #fff; font-family: "微软雅黑"; color: #333;} h1{ font-size: 100px; font-weight: normal; margin-bottom: 12px; } p{ line-height: 1.8em; font-size: 36px }</style><div style="padding: 24px 48px;"> <h1>:)</h1><p>欢迎使用 <b>ThinkPHP</b>！</p></div><script type="text/javascript" src="http://tajs.qq.com/stats?sId=9347272" charset="UTF-8"></script>','utf-8');
+       echo 'git ilove';
+    }
+    // 测试代码
+    public function test_list() {
+        // 这儿可以换成从数据库中获取数据
+        $list = array(0=>array('id'=>1,'name'=>'test1'),1=>array('id'=>2,'name'=>'test2'));
+        $data['status']  = 1;
+        $data['msg'] = '获取成功';
+        $data['list'] = $list;
+        $this->ajaxReturn($data);
+    }
+    public function add_record() {
+        $redis = new \Redis(); 
+        //$redis->connect('redis',['host' => '127.0.0.1','port' => 6379]);
+        dump($redis);exit;
+        $this->display();
     }
 }

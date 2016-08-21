@@ -8,5 +8,9 @@ class TestController extends Controller {
     	
         $this->display();
     }
+
+    public function addRecord() {
+    	$this->display();
+    }
 }
 
